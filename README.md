@@ -1,29 +1,29 @@
-# Hi there, I'm Mobina! 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/mobina-pourafshar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/mobipouri8" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mobipouri8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=145&section=header" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1300&color=C4B5FD&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Mobina+Pourafshar!;Computer+Engineering+Student;Always+curious+and+building" alt="Typing animation" />
+
+<br>
+<br>
+
+<p align="center">
+  ✦ <strong>I am currently learning and trying new things to get better every day.</strong> ✧<br>
+  Passionate about software development and creative problem solving.
 </p>
 
----
+<br>
 
-### 🛠 Tech Stack
+### ✧ Languages & Tools ✦
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,py,mysql,git,linux,github,verilog" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,py,git" alt="Java, C, Python and Git" />
 </p>
 
----
+<br>
 
-### 📊 My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobipouri8&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobipouri8&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=125&section=footer" />
+
+</div>
